@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		F46D0AAC2998F61900C8C27F /* optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = optionals.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4867E112996D237006D404C /* variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4EC58242997A33F00E5A696 /* controlStatements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = controlStatements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -15,6 +16,7 @@
 		F4867E0A2996D213006D404C = {
 			isa = PBXGroup;
 			children = (
+				F46D0AAC2998F61900C8C27F /* optionals.playground */,
 				F4EC58242997A33F00E5A696 /* controlStatements.playground */,
 				F4867E112996D237006D404C /* variables.playground */,
 			);
