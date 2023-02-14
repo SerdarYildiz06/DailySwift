@@ -9,6 +9,8 @@
 /* Begin PBXFileReference section */
 		F46D0AAC2998F61900C8C27F /* optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = optionals.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4867E112996D237006D404C /* variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4D21299299ABD9C0029FD7C /* enums.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = enums.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F4D2129A299B9C210029FD7C /* tuples.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = tuples.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F4EC58242997A33F00E5A696 /* controlStatements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = controlStatements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -16,6 +18,8 @@
 		F4867E0A2996D213006D404C = {
 			isa = PBXGroup;
 			children = (
+				F4D2129A299B9C210029FD7C /* tuples.playground */,
+				F4D21299299ABD9C0029FD7C /* enums.playground */,
 				F46D0AAC2998F61900C8C27F /* optionals.playground */,
 				F4EC58242997A33F00E5A696 /* controlStatements.playground */,
 				F4867E112996D237006D404C /* variables.playground */,
